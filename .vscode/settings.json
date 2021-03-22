@@ -1,0 +1,3 @@
+{
+    "deployToAzure.UseAzurePipelinesForGithub": true
+}
