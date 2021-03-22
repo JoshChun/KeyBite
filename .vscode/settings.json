@@ -1,3 +1,5 @@
 {
-    "deployToAzure.UseAzurePipelinesForGithub": true
+    "deployToAzure.UseAzurePipelinesForGithub": true,
+    "appService.defaultWebAppToDeploy": "/subscriptions/ca403d49-06ad-4954-a7d2-31da06f5b4f8/resourceGroups/KeyBite/providers/Microsoft.Web/sites/KeyBite",
+    "appService.deploySubpath": "."
 }
